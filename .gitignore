@@ -12,9 +12,6 @@ npm-debug.log*
 .nuxt*
 .cache
 
-# Dist folder
-dist*
-
 # Dist example generation
 examples/**/dist
 
